@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Mohamud Ashoor</title>
+    <title>Emerca</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -30,6 +30,10 @@
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
     <![endif]-->
 
 </head>
@@ -57,13 +61,13 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
+                    <a class="page-scroll" href="#about">About</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#services">Services</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#portfolio">Portfolio</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#about">About</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#team">Team</a>
@@ -80,13 +84,6 @@
 
 <!-- Header -->
 <header>
-   <!-- <div class="container">
-        <div class="intro-text">
-            <div class="intro-lead-in">Welcome To Our Studio!</div>
-            <div class="intro-heading">It's Nice To Meet You</div>
-            <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
-        </div>
-    </div>-->
     <div class="container">
         <div class="intro-text">
 
@@ -94,18 +91,18 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
 <!--                        <h1>emcera</h1>-->
-                        <img src="img/logos/emcera.png">
-                        <h3>Mohamud Ashoor</h3>
+                        <img class="fadeInUp animated" alt="" style="visibility: visible; animation-name: fadeInUp;" src="img/logos/emcera.png">
+                        <h3>Building sustainable information technology infrastructures</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
                             <li>
-                                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                                <a href="https://twitter.com/emcera" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                                <a href="https://facebook.com/emcera" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                                <a href="https://www.linkedin.com/company/emcera-consulting-inc." class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                             </li>
                         </ul>
                     </div>
@@ -115,42 +112,123 @@
         </div>
 </header>
 
-<!-- Services Section -->
-<section id="services">
+<!-- About Section -->
+
+<section id="about" class="section-padding">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Services</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
+        <div class="center-heading">
+            <h1>Emerca</h1>
+            <span class="center-line"></span>
         </div>
-        <div class="row text-center">
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                    </span>
-                <h4 class="service-heading">E-Commerce</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        <div class="row">
+            <div class="col-md-5">
+                <div>
+                    <img src="img/logos/elogo.png" class="img-responsive wow animated fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" alt="" style="visibility: visible; animation-name: fadeInUp;">
+                </div>
             </div>
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                <h4 class="service-heading">Responsive Design</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-            </div>
-            <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                    </span>
-                <h4 class="service-heading">Web Security</h4>
-                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <div class="col-md-7">
+                <div class="quick-desc">
+                    <h3>I.T Consultant - Mohamud Ashoor</h3>
+                    <p>
+                        Mohamud Ashoor is an Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
+                        efforts in the I.T organizations including health care, technology and financial services. These assignments have addressed such topics as IT strategy and management, IT architecture transformation and application monitoring.
+
+                    </p>
+                </div>
             </div>
         </div>
     </div>
+</section>
+
+<!-- Services Section -->
+
+<section id="services" class="module module-gray">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-6 col-sm-offset-3">
+
+                <div class="module-header wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInUp;">
+                    <h2 class="module-title">Our Services</h2>
+                    <div class="module-line"></div>
+                    <div class="module-subtitle">
+                        He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+                    </div>
+                    <div class="module-line"></div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-car fa-2x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Logo Design</h3>
+                        <div class="iconbox-desc">
+                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-car fa-2x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Marketing</h3>
+                        <div class="iconbox-desc">
+                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-car fa-2x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Design</h3>
+                        <div class="iconbox-desc">
+                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-car fa-2x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Branding</h3>
+                        <div class="iconbox-desc">
+                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div><!-- .row -->
+    </div><!-- .container -->
 </section>
 
 <!-- Portfolio Grid Section -->
@@ -251,86 +329,6 @@
     </div>
 </section>
 
-<!-- About Section -->
-<section id="about">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">About</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <ul class="timeline">
-                    <li>
-                        <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
-                            </div>
-                            <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
-                            </div>
-                            <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>December 2012</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
-                            </div>
-                            <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>July 2014</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
-                            </div>
-                            <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <h4>Be Part
-                                <br>Of Our
-                                <br>Story!</h4>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- Team Section -->
 <section id="team" class="bg-light-gray">
@@ -473,15 +471,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Your Website 2014</span>
+                <span class="copyright">Copyright &copy; Emerca 2016</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
-                    <li><a href="#"><i class="fa fa-twitter"></i></a>
+                    <li><a href="https://twitter.com/emcera"><i class="fa fa-twitter"></i></a>
                     </li>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a>
+                    <li><a href="https://www.facebook.com/emcera"><i class="fa fa-facebook"></i></a>
                     </li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                    <li><a href="https://www.linkedin.com/company/emcera-consulting-inc."><i class="fa fa-linkedin"></i></a>
                     </li>
                 </ul>
             </div>
