@@ -24,7 +24,10 @@
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
+    <link href=’http://fonts.googleapis.com/css?family=Merriweather&#8217; rel=’stylesheet’ type=’text/css’>
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -121,18 +124,28 @@
             <span class="center-line"></span>
         </div>
         <div class="row">
-            <div class="col-md-5">
+            <div class="col-md-3">
                 <div>
                     <img src="img/logos/elogo.png" class="img-responsive wow animated fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" alt="" style="visibility: visible; animation-name: fadeInUp;">
                 </div>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-9">
+                <div class="about-heading">
+                    <i class="fa fa-quote-left fa-2x fa-pull-left"></i>
+                    A Microsoft Partner. <br> Offering a wide range of Information Technology services, utilizing proven I.T and management methodologies to achieve world-class results. <br>
+                    A passion for delivering truly beneficial I.T solutions.
+                    <i class="fa fa-quote-right fa-2x fa-pull-right" ></i>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
                 <div class="quick-desc">
                     <h3>I.T Consultant - Mohamud Ashoor</h3>
                     <p>
-                        Mohamud Ashoor is an Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
-                        efforts in the I.T organizations including health care, technology and financial services. These assignments have addressed such topics as IT strategy and management, IT architecture transformation and application monitoring.
-
+                        Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
+                        efforts in the I.T organizations including health care, technology and financial services. These assignments have addressed such topics such as IT strategy and management, IT architecture transformation and application monitoring.
+                        Prior to joining Emerca, Mohamud worked at Health Shared Services BC (HSSBC) as a Senior Virtualization Analyst leading  the end-to-end process and systems transformation of a new Tier III Data Centre for all six Provincial Health Authorities.
                     </p>
                 </div>
             </div>
@@ -149,12 +162,13 @@
             <div class="col-sm-6 col-sm-offset-3">
 
                 <div class="module-header wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInUp;">
-                    <h2 class="module-title">Our Services</h2>
-                    <div class="module-line"></div>
+                    <h1 class="module-title">Our Services</h1>
+                    <span class="center-line"></span>
+                    <!--               <div class="module-line"></div>-->
                     <div class="module-subtitle">
-                        He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+                        Delivering quality solutions to mid size businesses.
                     </div>
-                    <div class="module-line"></div>
+                    <!--           <div class="module-line"></div>-->
                 </div>
 
             </div>
@@ -167,12 +181,12 @@
 
                 <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
                     <div class="iconbox-icon">
-                        <span class="fa fa-car fa-2x"></span>
+                        <span class="fa fa-tasks fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Logo Design</h3>
+                        <h3 class="iconbox-title">Information Management</h3>
                         <div class="iconbox-desc">
-                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                            Effective performance of managerial functions such as planning, organizing, leading, control, and data analysis.
                         </div>
                     </div>
                 </div>
@@ -183,12 +197,12 @@
 
                 <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
                     <div class="iconbox-icon">
-                        <span class="fa fa-car fa-2x"></span>
+                        <span class="fa fa-code fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Marketing</h3>
+                        <h3 class="iconbox-title">Software<br> Solutions</h3>
                         <div class="iconbox-desc">
-                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                            Bringing innovative ideas and cutting edge technologies to meet today's business challenges and opportunities.
                         </div>
                     </div>
                 </div>
@@ -199,12 +213,12 @@
 
                 <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
                     <div class="iconbox-icon">
-                        <span class="fa fa-car fa-2x"></span>
+                        <span class="fa fa-archive fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Design</h3>
+                        <h3 class="iconbox-title">Storage and Availability</h3>
                         <div class="iconbox-desc">
-                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                            Storage system developed to meet the requirements of today's interactive online services.
                         </div>
                     </div>
                 </div>
@@ -215,12 +229,12 @@
 
                 <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
                     <div class="iconbox-icon">
-                        <span class="fa fa-car fa-2x"></span>
+                        <span class="fa fa-cogs fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Branding</h3>
+                        <h3 class="iconbox-title">Hardware &amp; Infrastructure</h3>
                         <div class="iconbox-desc">
-                            Thus, then, one of our own noble stamp, even a whaleman, is the tutelary guardian of England.
+                            Catering dont know waht to say here. omg help me dear lordy. i like cannolis. Need more words :)
                         </div>
                     </div>
                 </div>
@@ -232,7 +246,7 @@
 </section>
 
 <!-- Portfolio Grid Section -->
-<section id="portfolio" class="bg-light-gray">
+<!--<section id="portfolio" class="bg-light-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -328,7 +342,7 @@
         </div>
     </div>
 </section>
-
+-->
 
 <!-- Team Section -->
 <section id="team" class="bg-light-gray">
@@ -395,7 +409,7 @@
 </section>
 
 <!-- Clients Aside -->
-<aside class="clients">
+<!-- <aside class="clients">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -421,14 +435,14 @@
         </div>
     </div>
 </aside>
-
+-->
 <!-- Contact Section -->
 <section id="contact">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Contact Us</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+              <!--  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
             </div>
         </div>
         <div class="row">

@@ -1,4 +1,8 @@
 /* Main */
+header {
+    background-image: url(../img/technology2.jpg)
+}
+
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
@@ -19,12 +23,16 @@
     text-transform: none;
 }
 
-.intro-message > h1 {
-    text-transform: none;
+.intro-message > h3 {
+    letter-spacing: 2px;
 }
 
 .intro-message > img {
-    width: 50%;
+    width: 40%;
+}
+
+.quick-desc {
+    line-height: 2.5;
 }
 /*Services*/
 .module-line {
@@ -49,15 +57,23 @@
 .module-header {
     text-align: center;
     margin: 0 0 60px;
+    color: white;
+}
+
+.module-subtitle {
+    font-style: italic;
+    font-size: 17px;
 }
 
 .iconbox {
-    background: #fff;
-    border-bottom: 1px solid #d4d4d4;
+    /*background: #fff;
+    border-bottom: 1px solid #d4d4d4;*/
     text-align: center;
     padding: 40px 20px;
     margin: 0 0 20px;
     border-radius: 3px;
+    border-style: double;
+    background: rgba(255, 255, 255, 0.66);
 }
 .iconbox-icon {
     margin: 0 0 15px;
@@ -70,7 +86,18 @@
     padding: 0;
 }
 
+section#services {
+    background-color: #222;
+    background-image: url(../img/services4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 /* About Section */
+section#about {
+    padding: 120px 100px;
+}
+
 .quick-desc p {
     line-height: 2.5;
     font-size: 16px;
@@ -95,6 +122,45 @@
     margin: 30px auto;
     border-bottom: 1px solid #25CBF5;
     border-top: 1px solid #25CBF5;
+}
+.quick-desc {
+    margin-top: 50px;
+}
+.about-heading {
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+    line-height: 2.5;
+    color: rgba(43, 41, 77, 0.92);
+    padding-right: 20px;
+}
+
+/*Contact */
+section#contact {
+    padding-top: 120px;
+    padding-bottom: 100px;
+
+}
+
+section h2.section-heading {
+    margin-bottom: 30px;
+}
+
+/*General */
+.navbar-default .navbar-brand {
+    color: white;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+/*
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: ‘Merriweather’, Georgia, serif;
+     font-family: 'PT Serif', serif;
+         font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Abel', sans-serif;
+
 }
 
 /*General animations */
