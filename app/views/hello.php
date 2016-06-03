@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Emerca</title>
+    <title>Emcera</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -54,7 +54,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Emerca</a>
+            <a class="navbar-brand page-scroll" href="#page-top">Emcera</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -120,7 +120,7 @@
 <section id="about" class="section-padding">
     <div class="container">
         <div class="center-heading">
-            <h1>Emerca</h1>
+            <h1>Emcera</h1>
             <span class="center-line"></span>
         </div>
         <div class="row">
@@ -145,7 +145,7 @@
                     <p>
                         Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
                         efforts in the I.T organizations including health care, technology and financial services. These assignments have addressed such topics such as IT strategy and management, IT architecture transformation and application monitoring.
-                        Prior to joining Emerca, Mohamud worked at Health Shared Services BC (HSSBC) as a Senior Virtualization Analyst leading  the end-to-end process and systems transformation of a new Tier III Data Centre for all six Provincial Health Authorities.
+                        Prior to joining Emcera, Mohamud worked at Health Shared Services BC (HSSBC) as a Senior Virtualization Analyst leading  the end-to-end process and systems transformation of a new Tier III Data Centre for all six Provincial Health Authorities.
                     </p>
                 </div>
             </div>
@@ -485,7 +485,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Emerca 2016</span>
+                <span class="copyright">Copyright &copy; Emcera 2016</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
@@ -497,14 +497,14 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-md-4">
+            <!--<div class="col-md-4">
                 <ul class="list-inline quicklinks">
                     <li><a href="#">Privacy Policy</a>
                     </li>
                     <li><a href="#">Terms of Use</a>
                     </li>
                 </ul>
-            </div>
+            </div>-->
         </div>
     </div>
 </footer>
