@@ -96,6 +96,7 @@ section#services {
 /* About Section */
 section#about {
     padding: 120px 100px;
+    background-color: #f7f7f7;
 }
 
 .quick-desc p {
@@ -140,7 +141,7 @@ section#about {
 section#contact {
     padding-top: 120px;
     padding-bottom: 100px;
-
+    background-image: url(../img/contact/har.jpg);
 }
 
 section h2.section-heading {
@@ -150,7 +151,8 @@ section h2.section-heading {
 /*General */
 .navbar-default .navbar-brand {
     color: white;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
 }
 
 h1,h2,h3,h4,h5 {
@@ -161,6 +163,14 @@ h1,h2,h3,h4,h5 {
          font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: 'Abel', sans-serif;
 
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: #555;
+}
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    color: #555;
 }
 
 /*General animations */
@@ -264,3 +274,4 @@ h1,h2,h3,h4,h5 {
     -webkit-animation-name: bounceIn;
     animation-name: bounceIn;
 }
+
