@@ -70,10 +70,7 @@
                     <a class="page-scroll" href="#services">Services</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">Portfolio</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#team">Team</a>
+                    <a class="page-scroll" href="#team">Industry</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
@@ -94,7 +91,7 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
 <!--                        <h1>emcera</h1>-->
-                        <img class="fadeInUp animated" alt="" style="visibility: visible; animation-name: fadeInUp;" src="img/logos/emcera.png">
+                        <img class="fadeInUp animated" alt="" style="visibility: visible; animation-name: fadeInUp;" src="img/logos/jess1.png">
                         <h3>Building sustainable information technology infrastructures</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
@@ -142,11 +139,18 @@
             <div class="col-md-12">
                 <div class="quick-desc">
                     <h3>I.T Consultant - Mohamud Ashoor</h3>
-                    <p>
-                        Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
-                        efforts in the I.T organizations including health care, technology and financial services. These assignments have addressed such topics such as IT strategy and management, IT architecture transformation and application monitoring.
-                        Prior to joining Emcera, Mohamud worked at Health Shared Services BC (HSSBC) as a Senior Virtualization Analyst leading  the end-to-end process and systems transformation of a new Tier III Data Centre for all six Provincial Health Authorities.
-                    </p>
+                    <div class="first col-sm-6">
+                        <p>
+                            Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
+                            efforts in the I.T organizations including health care, technology and financial services.These assignments have addressed such topics such as IT strategy and management,
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                             IT architecture transformation and application monitoring.
+                            Prior to joining Emcera, Mohamud worked at Health Shared Services BC (HSSBC) as a Senior Virtualization Analyst leading  the end-to-end process and systems transformation of a new Tier III Data Centre for all six Provincial Health Authorities.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -234,7 +238,7 @@
                     <div class="iconbox-text">
                         <h3 class="iconbox-title">Hardware &amp; Infrastructure</h3>
                         <div class="iconbox-desc">
-                            Catering dont know waht to say here. omg help me dear lordy. i like cannolis. Need more words :)
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis
                         </div>
                     </div>
                 </div>
@@ -245,111 +249,12 @@
     </div><!-- .container -->
 </section>
 
-<!-- Portfolio Grid Section -->
-<!--<section id="portfolio" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Portfolio</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Round Icons</h4>
-                    <p class="text-muted">Graphic Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Startup Framework</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Treehouse</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/golden.png" class="img-responsive" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Golden</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/escape.png" class="img-responsive" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Escape</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
-                        </div>
-                    </div>
-                    <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>Dreams</h4>
-                    <p class="text-muted">Website Design</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
--->
-
 <!-- Team Section -->
 <section id="team" class="bg-light-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Our Amazing Team</h2>
+                <h2 class="section-heading">Industry</h2>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
@@ -437,12 +342,13 @@
 </aside>
 -->
 <!-- Contact Section -->
+<!--
 <section id="contact">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Contact Us</h2>
-              <!--  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+              <!--  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>--> <!--
             </div>
         </div>
         <div class="row">
@@ -479,7 +385,69 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
+
+<div id="contact" class="">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2>Contact Us</h2>
+            <span class="center-line"></span>
+        </div>
+        <div class="space"></div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <address>
+                    <strong>Address</strong><br>
+                    <br>
+                    Emcera.Com<br>
+                    123 4567 8910<br>
+                    5704, Vancouver<br>
+                    Phone: (123) 456-7890
+                    <ul class="social">
+                        <li><a href="https://twitter.com/emcera"><span class="fa fa-twitter-square fa-2x"></span></a></li>
+                        <li><a href="https://www.facebook.com/emcera"><span class="fa fa-facebook-square fa-2x"></span></a></li>
+                        <li><a href="https://www.linkedin.com/company/emcera-consulting-inc."><span class="fa fa-linkedin-square fa-2x"></span></a></li>
+                    </ul>
+                </address>
+            </div>
+
+            <div class="col-md-9">
+                <form name="sentMessage" id="contactForm"autocomplete="off">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Please enter your email address.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input type="tel" class="form-control" placeholder="Phone" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="form-group">
+                                <input type="sub" class="form-control" placeholder="Subject" id="subject" required data-validation-required-message="Please enter your subject.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                        <p class="help-block text-danger"></p>
+                    </div>
+                    <div class="text-right">
+                        <button type="submit" class="btn send-btn">Send Message</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
 
 <footer>
     <div class="container">
@@ -487,7 +455,7 @@
             <div class="col-md-4">
                 <span class="copyright">Copyright &copy; Emcera 2016</span>
             </div>
-            <div class="col-md-4">
+<!--            <div class="col-md-4">
                 <ul class="list-inline social-buttons">
                     <li><a href="https://twitter.com/emcera"><i class="fa fa-twitter"></i></a>
                     </li>
@@ -496,7 +464,7 @@
                     <li><a href="https://www.linkedin.com/company/emcera-consulting-inc."><i class="fa fa-linkedin"></i></a>
                     </li>
                 </ul>
-            </div>
+            </div>-->
             <!--<div class="col-md-4">
                 <ul class="list-inline quicklinks">
                     <li><a href="#">Privacy Policy</a>

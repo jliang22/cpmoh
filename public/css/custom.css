@@ -88,7 +88,7 @@ header {
 
 section#services {
     background-color: #222;
-    background-image: url(../img/services4.png);
+    background-image: url(../img/services2.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -134,19 +134,160 @@ section#about {
     text-transform: uppercase;
     line-height: 2.5;
     color: rgba(43, 41, 77, 0.92);
-    padding-right: 20px;
+    padding-left: 20px;
+}
+.first.col-sm-6 {
+    padding-left: 0px;
 }
 
 /*Contact */
-section#contact {
-    padding-top: 120px;
-    padding-bottom: 100px;
-    background-image: url(../img/contact/har.jpg);
+
+#contact{
+    background-image: url(../img/contact/vanc1.jpg);
+    padding: 100px 0;
+    color: #ffffff;
+
+}
+.help-block {
+    color: #e03440;
 }
 
-section h2.section-heading {
+ul.social li{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+ul.social li a{
+    color: #ffffff;
+    font-size: 16px;
+}
+
+address strong{
+    text-transform: uppercase;
+    font-style: normal;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+address:before{
+    content: "\f041";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 20px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #25CBF5;
+    vertical-align: middle;
+    margin-right: 15px;
+    margin-left: -30px;
+}
+address{
+    font-style: italic;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+}
+
+#contact input.form-control,
+#contact textarea.form-control {
     margin-bottom: 30px;
 }
+
+#contact .form-control {
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 7px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #E0D9D9;
+    background-color: #1e2429;
+    background-image: none;
+    border: 0;
+    border-top: 2px solid transparent;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+    transition: all 0.5s;
+}
+
+#contact .form-control:focus {
+    border-color: #25CBF5;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    color:    #222222;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color:    #222222;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+input::-moz-placeholder, textarea::-moz-placeholder {
+    color:    #222222;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+    color:    #222222;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+button.btn.send-btn {
+    text-transform: uppercase;
+    background: #25CBF5;
+    color: #282f35;
+    padding: 15px 35px;
+    border-radius: 0;
+    font-size: 12px;
+    color: #ffffff;
+    transition: all 0.5s;
+}
+button.btn.send-btn:hover{
+    background: transparent;
+    border: 1px solid #25CBF5;
+    color: #ffffff;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
 
 /*General */
 .navbar-default .navbar-brand {
