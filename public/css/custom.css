@@ -1,6 +1,6 @@
 /* Main */
 header {
-    background-image: url(../img/technology2.jpg)
+    background-image: url(../img/technology4.jpg)
 }
 
 .intro-divider {
@@ -25,10 +25,18 @@ header {
 
 .intro-message > h3 {
     letter-spacing: 2px;
+    margin-top: 0px;
 }
 
 .intro-message > img {
-    width: 40%;
+    width: 50%;
+}
+
+@media (min-width:768px){
+    header .intro-text{
+        padding-top:250px;
+        padding-bottom:200px
+    }
 }
 
 .quick-desc {
@@ -88,7 +96,7 @@ header {
 
 section#services {
     background-color: #222;
-    background-image: url(../img/services2.jpg);
+    background-image: url(../img/services6.png);
     background-position: center;
     background-repeat: no-repeat;
 }
