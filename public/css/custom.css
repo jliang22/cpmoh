@@ -135,12 +135,20 @@ section#about {
 .quick-desc {
     margin-top: 50px;
 }
-.about-heading {
-    font-size:20px;
+
+.about-heading h2 {
+        font-size:23px;
     font-weight: bold;
     font-family: 'Abel', sans-serif;
     text-transform: uppercase;
-    line-height: 2.5;
+    margin-bottom:10px;
+    color: rgba(43, 41, 77, 0.92);
+
+    margin-top:0px;
+}
+.about-heading {
+    font-size:18px;
+  /*  line-height: 2.5; */
     color: rgba(43, 41, 77, 0.92);
     padding-left: 20px;
 }

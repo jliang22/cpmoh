@@ -128,27 +128,35 @@
             </div>
             <div class="col-md-9">
                 <div class="about-heading">
-                    <i class="fa fa-quote-left fa-2x fa-pull-left"></i>
-                    A Microsoft Partner. <br> Offering a wide range of Information Technology services, utilizing proven I.T and management methodologies to achieve world-class results. <br>
-                    A passion for delivering truly beneficial I.T solutions.
-                    <i class="fa fa-quote-right fa-2x fa-pull-right" ></i>
+                    <!-- <i class="fa fa-quote-left fa-2x fa-pull-left"></i>-->
+                    <h2>OUR MISSION</h2>To advance the practice of profile management consulting in Canada through
+                    the delivery of high quality consulting services to enterprises needing strategic advice or IT project
+                    services.<br><br><br>
+                    <h2>OUR VALUES</h2>To server our clients with integrity and providing the highest quality professional services 
+                    that address their business issues
+                   <!-- <i class="fa fa-quote-right fa-2x fa-pull-right" ></i> -->
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="quick-desc">
-                    <h3>I.T Consultant - Mohamud Ashoor</h3>
                     <div class="first col-sm-6">
+                        <h3>Our Story</h3>
                         <p>
-                            Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
-                            efforts in the I.T organizations including health care, technology and financial services.These assignments have addressed such topics such as IT strategy and management,
+                        Emcera is a Vancouver-based technology consulting firm helping companies and organizations with their software and technology changes.
+                        We are a provider in managed services, product integration, consulting and IT staffing solutions to our clients.
+                        We take the time to understand your company's needs and ambitions on achieving business objectives related to technology investments.
+                        Our professionals collaborate on a strategy to deliver full IT service management. We cater to a variety of industries to plan, implement and 
+                        manage their transitions to new technologies.
                         </p>
                     </div>
                     <div class="col-sm-6">
-                        <p>
-                             IT architecture transformation and application monitoring.
-                            Prior to joining Emcera, Mohamud worked at Health Shared Services BC (HSSBC) as a Senior Virtualization Analyst leading  the end-to-end process and systems transformation of a new Tier III Data Centre for all six Provincial Health Authorities.
+                        <h3>Mohamud Ashoor Principle Consultant</h3>
+                        <p> Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
+                            efforts in the I.T organizations including health care, technology and financial services.These assignments have addressed such topics such as IT strategy and management,
+                             IT architecture transformation and application monitoring. He has managed services for Microsfot's cloud productivity and platform solutions including Azure and Office 365.
+        
                         </p>
                     </div>
                 </div>
@@ -204,9 +212,9 @@
                         <span class="fa fa-code fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Software<br> Solutions</h3>
+                        <h3 class="iconbox-title">Application Development</h3>
                         <div class="iconbox-desc">
-                            Bringing innovative ideas and cutting edge technologies to meet today's business challenges and opportunities.
+                            Transform business with enterprise-class cloud, mobile apps, and c
                         </div>
                     </div>
                 </div>
@@ -220,7 +228,7 @@
                         <span class="fa fa-archive fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Storage and Availability</h3>
+                        <h3 class="iconbox-title">Network Design</h3>
                         <div class="iconbox-desc">
                             Storage system developed to meet the requirements of today's interactive online services.
                         </div>
@@ -236,7 +244,7 @@
                         <span class="fa fa-cogs fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Hardware &amp; Infrastructure</h3>
+                        <h3 class="iconbox-title">Virtualization<br>(VMware & Microsoft)</h3>
                         <div class="iconbox-desc">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis
                         </div>
@@ -255,6 +263,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Industry</h2>
+                 <span class="center-line"></span>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
