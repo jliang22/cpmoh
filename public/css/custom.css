@@ -68,8 +68,12 @@ header {
 }
 
 .module-subtitle {
-    font-size: 17px;
-    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 10px;
+    color: rgba(43, 41, 77, 0.92);
+    margin-top: 0px;
+    font-style: italic;
 }
 
 .iconbox {
@@ -170,7 +174,7 @@ ul {
   background: #ffffff;
   font-size: 40px;
   line-height: 40px;
-  color: #333 !important;
+  color: #1f628d !important;
   letter-spacing: -0.5px;
   position: relative;
   -moz-transition: 0.2s;
@@ -180,6 +184,7 @@ ul {
   -webkit-border-radius: 7;
   -moz-border-radius: 7;
   border-radius: 7px;
+  border: solid #1f628d 2px;
   -webkit-box-shadow: 1px 0px 3px #878787;
   -moz-box-shadow: 1px 0px 3px #878787;
   box-shadow: 1px 0px 3px #878787;
@@ -226,7 +231,13 @@ ul {
 }
 
 section h3.section-subheading {
-    margin-bottom: 30px;
+    font-size: 18px;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 40px;
+    color: rgba(43, 41, 77, 0.92);
+    margin-top: 0px;
+    font-style: italic;
+    line-height: 1.5;
 }
 
 /*Contact */
@@ -512,6 +523,9 @@ h1,h2,h3,h4,h5 {
 }
 
 /*dfjadf*/
+/*.inner {
+    color: #2e99a9;
+}*/
 .table {
     display: table;
     width: 100%;

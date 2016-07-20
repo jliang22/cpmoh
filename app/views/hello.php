@@ -183,7 +183,7 @@
                     <span class="center-line"></span>
                     <!--               <div class="module-line"></div>-->
                     <div class="module-subtitle">
-                        Delivering quality solutions to mid size businesses.
+                        Delivering Effective Services Efficiently
                     </div>
                     <!--           <div class="module-line"></div>-->
                 </div>
@@ -193,7 +193,7 @@
         </div>
        <div class="inner">
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInRight;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.05s" style="visibility: visible; animation-name: fadeInRight;">
                     <div class="col-md-4 table-cell text">
                          <h4 class="role-element leadstyle-text">information Management</h4>
                     </div>
@@ -206,7 +206,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInLeft;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.07s" style="visibility: visible; animation-name: fadeInLeft;">
                     <div class="col-md-4 table-cell text">
                         <h4 class="role-element leadstyle-text">Directory Development</h4>
                     </div>
@@ -219,7 +219,7 @@
                 </div>
             </div>    
              <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInRight;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.09s" style="visibility: visible; animation-name: fadeInRight;">
                     <div class="col-md-4 table-cell text">
                          <h4 class="role-element leadstyle-text">Network Designs</h4>
                     </div>
@@ -232,7 +232,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInLeft;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInUp animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.11s" style="visibility: visible; animation-name: fadeInLeft;">
                     <div class="col-md-4 table-cell text">
                         <h4 class="role-element leadstyle-text">Virtualization</h4>
                     </div>
@@ -323,7 +323,8 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Industries</h2>
                  <span class="center-line"></span>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted">Our certified professionals recognize that each industry has its own unique characteristics and culture.
+                    We understand these differences and work one-on-one with each client, tailoring our processes and solutions delivery to meet their goals, values and challenges. </h3>
             </div>
         </div>
         <div class="row">
@@ -372,7 +373,7 @@
                     </ul>
                 </div>
             </div> -->
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-6 col-sm-12 wow fadeInUp" data-wow-offset="30" data-wow-duration="2.5s">
               <ul class="link-list">
    
                 <li>
