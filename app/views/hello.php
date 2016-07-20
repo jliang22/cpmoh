@@ -38,6 +38,11 @@
         new WOW().init();
     </script>
     <![endif]-->
+        <link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+        <script src="js/wow.min.js"></script>
+        <script>
+         new WOW().init();
+        </script>
 
 </head>
 
@@ -70,7 +75,7 @@
                     <a class="page-scroll" href="#services">Services</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#team">Industry</a>
+                    <a class="page-scroll" href="#team">Industries</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
@@ -91,7 +96,7 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
 <!--                        <h1>emcera</h1>-->
-                        <img class="fadeInUp animated" alt="" style="visibility: visible; animation-name: fadeInUp;" src="img/logos/jess1.png">
+                        <img class="wow fadeInUp" data-wow-duration="2s" src="img/logos/jess1.png">
                         <h3>Building sustainable information technology infrastructures</h3>
                         <hr class="intro-divider">
                         <ul class="list-inline intro-social-buttons">
@@ -115,7 +120,7 @@
 <!-- About Section -->
 
 <section id="about" class="section-padding">
-    <div class="container">
+ 
         <div class="center-heading">
             <h1>Emcera</h1>
             <span class="center-line"></span>
@@ -123,7 +128,7 @@
         <div class="row">
             <div class="col-md-3">
                 <div>
-                    <img src="img/logos/elogo.png" class="img-responsive wow animated fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" alt="" style="visibility: visible; animation-name: fadeInUp;">
+                    <img src="img/logos/elogo.png" class="img-responsive wow animated fadeInLeft animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible;">
                 </div>
             </div>
             <div class="col-md-9">
@@ -147,7 +152,7 @@
                         Emcera is a Vancouver-based technology consulting firm helping companies and organizations with their software and technology changes.
                         We are a provider in managed services, product integration, consulting and IT staffing solutions to our clients.
                         We take the time to understand your company's needs and ambitions on achieving business objectives related to technology investments.
-                        Our professionals collaborate on a strategy to deliver full IT service management. We cater to a variety of industries to plan, implement and 
+                        Our professionals collaborate on a strategy to deliver full IT service management catering to a variety of industries to plan, implement and 
                         manage their transitions to new technologies.
                         </p>
                     </div>
@@ -162,7 +167,7 @@
                 </div>
             </div>
         </div>
-    </div>
+
 </section>
 
 <!-- Services Section -->
@@ -173,7 +178,7 @@
 
             <div class="col-sm-6 col-sm-offset-3">
 
-                <div class="module-header wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="module-header">
                     <h1 class="module-title">Our Services</h1>
                     <span class="center-line"></span>
                     <!--               <div class="module-line"></div>-->
@@ -186,8 +191,62 @@
             </div>
 
         </div>
+       <div class="inner">
+            <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInRight;">
+                    <div class="col-md-4 table-cell text">
+                         <h4 class="role-element leadstyle-text">information Management</h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                         <span class="fa fa-tasks fa-5"></span>
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">We hold FREE monthly training calls to discuss important&nbsp;topics relating to video marketing and online business strategies.&nbsp;<br><strong>Don't miss out on THIS month's&nbsp;&nbsp;call!</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInLeft;">
+                    <div class="col-md-4 table-cell text">
+                        <h4 class="role-element leadstyle-text">Directory Development</h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                        <span class="fa fa-folder-open fa-5"></span> 
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">We take the guesswork out of video marketing and&nbsp;give our members&nbsp;the EXACT word-for-word scripts to&nbsp;use in their businesses &amp; videos&nbsp;each month!</p>
+                    </div>
+                </div>
+            </div>    
+             <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInRight;">
+                    <div class="col-md-4 table-cell text">
+                         <h4 class="role-element leadstyle-text">Network Designs</h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                         <span class="fa fa-laptop fa-5"></span>
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">We hold FREE monthly training calls to discuss important&nbsp;topics relating to video marketing and online business strategies.&nbsp;<br><strong>Don't miss out on THIS month's&nbsp;&nbsp;call!</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.15s" style="visibility: visible; animation-name: fadeInLeft;">
+                    <div class="col-md-4 table-cell text">
+                        <h4 class="role-element leadstyle-text">Virtualization</h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                        <span class="fa fa-random fa-5"></span> 
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">We take the guesswork out of video marketing and&nbsp;give our members&nbsp;the EXACT word-for-word scripts to&nbsp;use in their businesses &amp; videos&nbsp;each month!</p>
+                    </div>
+                </div>
+            </div>    
+        </div> 
 
-        <div class="row">
+       <!--  <div class="row">
 
             <div class="col-sm-3">
 
@@ -212,7 +271,7 @@
                         <span class="fa fa-code fa-2x"></span>
                     </div>
                     <div class="iconbox-text">
-                        <h3 class="iconbox-title">Application Development</h3>
+                        <h3 class="iconbox-title">Directory Development</h3>
                         <div class="iconbox-desc">
                             Transform business with enterprise-class cloud, mobile apps, and c
                         </div>
@@ -246,7 +305,7 @@
                     <div class="iconbox-text">
                         <h3 class="iconbox-title">Virtualization<br>(VMware & Microsoft)</h3>
                         <div class="iconbox-desc">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis
+                            
                         </div>
                     </div>
                 </div>
@@ -262,13 +321,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Industry</h2>
+                <h2 class="section-heading">Industries</h2>
                  <span class="center-line"></span>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4">
+            <!-- <div class="col-sm-4">
                 <div class="team-member">
                     <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
                     <h4>Kay Garland</h4>
@@ -312,13 +371,36 @@
                         </li>
                     </ul>
                 </div>
+            </div> -->
+            <div class="col-md-6 col-sm-12">
+              <ul class="link-list">
+   
+                <li>
+                    <div class="ind-list"> Biotechnology</div>
+                </li>
+<!--                 <li>
+                    <div class="ind-list"> Finance</div>
+                </li> -->
+                <li>
+                    <div class="ind-list"> Government</div>
+                </li>
+                <li>
+                    <div class="ind-list"> Health Care</div>
+                </li>
+                <li>
+                    <div class="ind-list"> Telecommunications</div>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-6 col-sm-12">
+              <img src="img/office.jpg" style="width:100%; border-radius: 5px;"</img>
             </div>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 
