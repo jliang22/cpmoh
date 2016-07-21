@@ -193,7 +193,7 @@
         </div>
        <div class="inner">
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.05s" style="visibility: visible; animation-name: fadeInRight;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.05s" style="visibility: visible; animation-name: fadeInRight;">
                     <div class="col-md-4 table-cell text">
                          <h4 class="role-element leadstyle-text">information Management</h4>
                     </div>
@@ -206,7 +206,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.07s" style="visibility: visible; animation-name: fadeInLeft;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.07s" style="visibility: visible; animation-name: fadeInLeft;">
                     <div class="col-md-4 table-cell text">
                         <h4 class="role-element leadstyle-text">Directory Development</h4>
                     </div>
@@ -219,7 +219,7 @@
                 </div>
             </div>    
              <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.09s" style="visibility: visible; animation-name: fadeInRight;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.09s" style="visibility: visible; animation-name: fadeInRight;">
                     <div class="col-md-4 table-cell text">
                          <h4 class="role-element leadstyle-text">Network Designs</h4>
                     </div>
@@ -232,7 +232,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInUp animated" data-wow-offset="30" data-wow-duration="3s" data-wow-delay="0.11s" style="visibility: visible; animation-name: fadeInLeft;">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.11s" style="visibility: visible; animation-name: fadeInLeft;">
                     <div class="col-md-4 table-cell text">
                         <h4 class="role-element leadstyle-text">Virtualization</h4>
                     </div>
@@ -327,8 +327,8 @@
                     We understand these differences and work one-on-one with each client, tailoring our processes and solutions delivery to meet their goals, values and challenges. </h3>
             </div>
         </div>
-        <div class="row">
-            <!-- <div class="col-sm-4">
+<!--         <div class="row">
+             <div class="col-sm-4">
                 <div class="team-member">
                     <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
                     <h4>Kay Garland</h4>
@@ -360,28 +360,20 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img class="img-responsive img-circle" alt=""><i class="fa fa-linkedin"></i></div>
                     <h4>Diana Pertersen</h4>
                     <p class="text-muted">Lead Developer</p>
-                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
+                    <div class="list-inline social-buttons">
+                        <h4>Finance</h4>
+                    </div>
                 </div>
-            </div> -->
+            </div>  -->
             <div class="col-md-6 col-sm-12 wow fadeInUp" data-wow-offset="30" data-wow-duration="2.5s">
               <ul class="link-list">
    
                 <li>
                     <div class="ind-list"> Biotechnology</div>
                 </li>
-<!--                 <li>
-                    <div class="ind-list"> Finance</div>
-                </li> -->
                 <li>
                     <div class="ind-list"> Government</div>
                 </li>
