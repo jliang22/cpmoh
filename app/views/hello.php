@@ -19,7 +19,7 @@
     <link href="css/custom.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -245,75 +245,7 @@
                 </div>
             </div>    
         </div> 
-
-       <!--  <div class="row">
-
-            <div class="col-sm-3">
-
-                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
-                    <div class="iconbox-icon">
-                        <span class="fa fa-tasks fa-2x"></span>
-                    </div>
-                    <div class="iconbox-text">
-                        <h3 class="iconbox-title">Information Management</h3>
-                        <div class="iconbox-desc">
-                            Effective performance of managerial functions such as planning, organizing, leading, control, and data analysis.
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-sm-3">
-
-                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
-                    <div class="iconbox-icon">
-                        <span class="fa fa-code fa-2x"></span>
-                    </div>
-                    <div class="iconbox-text">
-                        <h3 class="iconbox-title">Directory Development</h3>
-                        <div class="iconbox-desc">
-                            Transform business with enterprise-class cloud, mobile apps, and c
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-sm-3">
-
-                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
-                    <div class="iconbox-icon">
-                        <span class="fa fa-archive fa-2x"></span>
-                    </div>
-                    <div class="iconbox-text">
-                        <h3 class="iconbox-title">Network Design</h3>
-                        <div class="iconbox-desc">
-                            Storage system developed to meet the requirements of today's interactive online services.
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-sm-3">
-
-                <div class="iconbox wow bounceIn animated" style="visibility: visible; animation-name: bounceIn;">
-                    <div class="iconbox-icon">
-                        <span class="fa fa-cogs fa-2x"></span>
-                    </div>
-                    <div class="iconbox-text">
-                        <h3 class="iconbox-title">Virtualization<br>(VMware & Microsoft)</h3>
-                        <div class="iconbox-desc">
-                            
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div><!-- .row -->
-    </div><!-- .container -->
+    </div>
 </section>
 
 <!-- Team Section -->
@@ -368,6 +300,71 @@
                     </div>
                 </div>
             </div>  -->
+
+
+        <div class="row">
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated"   data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-envira fa-3x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Biotechnology</h3>
+<!--                         <div class="iconbox-desc">
+                            Effective performance of managerial functions such as planning, organizing, leading, control, and data analysis.
+                        </div> -->
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-building fa-3x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Government</h3>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-heartbeat fa-3x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Health Care</h3>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-sm-3">
+
+                <div class="iconbox wow bounceIn animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                    <div class="iconbox-icon">
+                        <span class="fa fa-volume-control-phone fa-3x"></span>
+                    </div>
+                    <div class="iconbox-text">
+                        <h3 class="iconbox-title">Telecommunications</h3>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+
+<!--
             <div class="col-md-6 col-sm-12 wow fadeInUp" data-wow-offset="30" data-wow-duration="2.5s">
               <ul class="link-list">
    
@@ -389,87 +386,13 @@
               <img src="img/office.jpg" style="width:100%; border-radius: 5px;"</img>
             </div>
         </div>
-        <!-- <div class="row">
+         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
             </div>
         </div> -->
     </div>
 </section>
-
-<!-- Clients Aside -->
-<!-- <aside class="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-        </div>
-    </div>
-</aside>
--->
-<!-- Contact Section -->
-<!--
-<section id="contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Contact Us</h2>
-              <!--  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>--> <!--
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <form name="sentMessage" id="contactForm" novalidate>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                            <div class="form-group">
-                                <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="clearfix"></div>
-                        <div class="col-lg-12 text-center">
-                            <div id="success"></div>
-                            <button type="submit" class="btn btn-xl">Send Message</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>-->
 
 <div id="contact" class="">
     <div class="container">
@@ -560,176 +483,6 @@
         </div>
     </div>
 </footer>
-
-<!-- Portfolio Modals -->
-<!-- Use the modals below to showcase details about your portfolio projects! -->
-
-<!-- Portfolio Modal 1 -->
-<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt="">
-                        <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                        <p>
-                            <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
-                        <ul class="list-inline">
-                            <li>Date: July 2014</li>
-                            <li>Client: Round Icons</li>
-                            <li>Category: Graphic Design</li>
-                        </ul>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Portfolio Modal 2 -->
-<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Project Heading</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png" alt="">
-                        <p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-                        <p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Portfolio Modal 3 -->
-<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
-                        <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-                        <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Portfolio Modal 4 -->
-<div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/golden-preview.png" alt="">
-                        <p>Start Bootstrap's Agency theme is based on Golden, a free PSD website template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Golden is a modern and clean one page web template that was made exclusively for Best PSD Freebies. This template has a great portfolio, timeline, and meet your team sections that can be easily modified to fit your needs.</p>
-                        <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/golden-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Portfolio Modal 5 -->
-<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/escape-preview.png" alt="">
-                        <p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.</p>
-                        <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.</p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Portfolio Modal 6 -->
-<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                        <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                        <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <!-- jQuery -->
 <script src="js/jquery.js"></script>
