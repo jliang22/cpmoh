@@ -245,6 +245,22 @@ section h3.section-subheading {
     line-height: 1.5;
 }
 
+.fa-envira:before {
+    color: green;
+}
+
+.fa-building:before {
+    color: #671919;
+}
+
+.fa-heartbeat:before {
+    color: red;
+}
+
+.fa-volume-control-phone:before {
+    color: #c7c300;
+}
+
 /*Contact */
 
 #contact{
