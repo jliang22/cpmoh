@@ -42,7 +42,7 @@ header {
 .quick-desc {
     line-height: 2.5;
 }
-/*Services*/
+/*Industries*/
 .module-line {
     background: #49e2d6;
     width: 55px;
@@ -264,84 +264,34 @@ section h3.section-subheading {
 /*Contact */
 
 #contact{
-    background-image: url(../img/contact/vanc1.jpg);
     padding: 100px 0;
-    color: #ffffff;
+    color: #333;
     border-top: solid 1px #bfbfbf;
-
+    background-color: #f7f7f7;
 }
 .help-block {
     color: #e03440;
 }
 
-ul.social li{
-    display: inline-block;
-    margin-right: 20px;
-    margin-top: 30px;
+.contact-form {
+    box-sizing: border-box;
+}
+.social>li {
+ display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #333;
 }
 
-ul.social li a{
-    color: #ffffff;
-    font-size: 16px;
+.social .fa-twitter-square:before,.social .fa-linkedin-square:before,.social .fa-facebook-square:before {
+    color: #333;
 }
 
-address strong{
-    text-transform: uppercase;
-    font-style: normal;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-address:before{
-    content: "\f041";
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: 20px;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    color: #25CBF5;
-    vertical-align: middle;
-    margin-right: 15px;
-    margin-left: -30px;
-}
-address{
-    font-style: italic;
-    font-size: 14px;
-    font-family: 'Lato', sans-serif;
-    letter-spacing: 1px;
+.social {
+    padding-left: 0px;
+    margin-top: 20px;
 }
 
-#contact input.form-control,
-#contact textarea.form-control {
-    margin-bottom: 30px;
-}
-
-#contact .form-control {
-    display: block;
-    width: 100%;
-    height: 40px;
-    padding: 7px 12px;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #E0D9D9;
-    background-color: #1e2429;
-    background-image: none;
-    border: 0;
-    border-top: 2px solid transparent;
-    border-radius: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    -webkit-transition: none;
-    -o-transition: none;
-    transition: none;
-    transition: all 0.5s;
-}
-
-#contact .form-control:focus {
-    border-color: #25CBF5;
-    outline: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-}
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
     color:    #222222;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -551,7 +501,7 @@ h1,h2,h3,h4,h5 {
     background: #555555;
 }
 
-/*dfjadf*/
+/*Services*/
 /*.inner {
     color: #2e99a9;
 }*/
@@ -599,6 +549,7 @@ vertical-align: middle;
     padding-right:20px !important;
 }
 
+/*navigation*/
 
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -619,3 +570,12 @@ vertical-align: middle;
     background-color: transparent;
 }
 
+/*footer*/
+footer {
+    padding: 25px 0;
+    text-align: center;
+    border-top: 1px solid #848484;
+    color: #333;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}

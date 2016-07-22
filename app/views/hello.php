@@ -306,7 +306,7 @@
 
             <div class="col-sm-3">
 
-                <div class="iconbox wow bounceIn animated"   data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                <div class="iconbox wow flipInY animated"   data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: flipInY;">
                     <div class="iconbox-icon">
                         <span class="fa fa-envira fa-3x"></span>
                     </div>
@@ -322,7 +322,7 @@
 
             <div class="col-sm-3">
 
-                <div class="iconbox wow bounceIn animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                <div class="iconbox wow flipInY animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: flipInY;">
                     <div class="iconbox-icon">
                         <span class="fa fa-building fa-3x"></span>
                     </div>
@@ -335,7 +335,7 @@
 
             <div class="col-sm-3">
 
-                <div class="iconbox wow bounceIn animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                <div class="iconbox wow flipInY animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: flipInY;">
                     <div class="iconbox-icon">
                         <span class="fa fa-heartbeat fa-3x"></span>
                     </div>
@@ -348,7 +348,7 @@
 
             <div class="col-sm-3">
 
-                <div class="iconbox wow bounceIn animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: bounceIn;">
+                <div class="iconbox wow flipInY animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible; animation-name: flipInY;">
                     <div class="iconbox-icon">
                         <span class="fa fa-volume-control-phone fa-3x"></span>
                     </div>
@@ -403,8 +403,18 @@
         <div class="space"></div>
 
         <div class="row">
-            <div class="col-md-3">
-                <address>
+            <div class="col-md-4">
+                <div class="text-center">
+                    <p class="large text-muted">
+                    For inquiries regarding our services please contact us by filling out the form below.
+                    </p>
+                    <ul class="social">
+                        <li><a href="https://twitter.com/emcera"><span class="fa fa-twitter-square fa-4x"></span></a></li>
+                        <li><a href="https://www.facebook.com/emcera"><span class="fa fa-facebook-square fa-4x"></span></a></li>
+                        <li><a href="https://www.linkedin.com/company/emcera-consulting-inc."><span class="fa fa-linkedin-square fa-4x"></span></a></li>
+                    </ul>
+                </div>
+                <!-- <address>
                     <strong>Address</strong><br>
                     <br>
                     Emcera.Com<br>
@@ -416,10 +426,10 @@
                         <li><a href="https://www.facebook.com/emcera"><span class="fa fa-facebook-square fa-2x"></span></a></li>
                         <li><a href="https://www.linkedin.com/company/emcera-consulting-inc."><span class="fa fa-linkedin-square fa-2x"></span></a></li>
                     </ul>
-                </address>
+                </address> -->
             </div>
 
-            <div class="col-md-9">
+            <div class="col-md-8">
                 <form name="sentMessage" id="contactForm"autocomplete="off">
                     <div class="row">
                         <div class="col-md-6">
@@ -451,7 +461,7 @@
                         <button type="submit" class="btn send-btn">Send Message</button>
                     </div>
                 </form>
-            </div>
+            </div> 
         </div>
     </div>
 </div>
