@@ -75,7 +75,10 @@
                     <a class="page-scroll" href="#services">Services</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#team">Industries</a>
+                    <a class="page-scroll" href="#microsoft">Microsoft Partner</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#industries">Industries</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>
@@ -247,13 +250,150 @@
         </div> 
     </div>
 </section>
+<section id="microsoft" class="bg-light-gray">
+<!--     <div class="row">
+        <div class="col-md-5">
+            <div>
+                <img src="img/micro1.png" class="micropic img-responsive wow animated fadeInLeft animated" data-wow-offset="30" data-wow-duration="2s" style="visibility: visible;">
+            </div>
+        </div>
+        <div class="col-md-7 micro-list">
+            <div class="custom-list-item">CERFITIED IN</div>
+            <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941"></i>Virtualization Administrator</div>
+            <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941"></i>SharePoint Administrator 2010</div>
+            <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941"></i>Enterprise Administrator</div>
+            <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941"></i>Server Administrator</div>
+        </div>
+ -->
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="iconbox">
+                <div class="iconbox-icon">
+                    <img src="img/mcip.png" class="micropic img-responsive">
+                </div>
+                <div class="iconbox-text">
+                    <div class="iconbox-desc">
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Virtualization Administrator</div>
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>SharePoint Administrator</div>
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Enterprise Administrator</div>
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Server Administrator</div>
+                    </div> 
+                </div>
+            </div>
+            <div class="iconbox">
+                <div class="iconbox-icon">
+                    <img src="img/mcts2.png" class="micropic img-responsive">
+                </div>
+                <div class="iconbox-text">
+                    <div class="iconbox-desc">
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Microsoft Exchange Server</div>
+                    </div> 
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="iconbox">
+                <div class="iconbox-icon">
+                    <img src="img/mcsa.png" class="micropic img-responsive">
+                </div>
+                <div class="iconbox-text">
+                    <div class="iconbox-desc">
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Messaging on Windows</div>
+                    </div> 
+                </div>
+            </div>
+            <div class="iconbox">
+                <div class="iconbox-icon">
+                    <img src="img/mcse1.png" class="micropic img-responsive">
+                    <div class="iconbox-desc">
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Windows Server</div>
+                    </div> 
+                </div>
+            </div>
+            <div class="iconbox">
+                <div class="iconbox-icon">
+                    <img src="img/cisco.png" class="micropic img-responsive">
+                </div>
+                <div class="iconbox-text">
+                    <div class="iconbox-desc">
+                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Cisco Certified Network Associate</div>
+                    </div> 
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-5">
+            <div class="center-heading">
+                <h1>Microsoft Partner</h1>
+                <span class="center-line"></span>
+            </div>
+            <div class="microtext wow pulse"   data-wow-offset="20" data-wow-duration="2s" data-wow-delay=".25s">
+                <p>
+Our professions have all obtained a Microsoft Certification which validates our expertise in a Microsoft technology. Our skilled developers  have experience with integration between a variety of technologies including Microsoft Office products, Microsoft .NET desktop/web applications, Microsoft Exchange, Java and SharePoint solutions. Our team of developers will integrate new technologies into your system so that it performs at an optimal and stable level. Their extensive experience will ensure that  recommendations to enhance or upgrade your application are achieved in the most cost-effective and user intuitive manner.
+                </p>    
+            </div>    
+        </div>
+    </div>
+</section>
+
+<!-- <section id="microsoft" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading">Microsoft Partner</h1>
+                    <span class="center-line"></span>
+                </div>
+        </div>
+        <div class="row">
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+        </div>
+    </div>
+</section> -->
 
 <!-- Team Section -->
-<section id="team" class="bg-light-gray">
+<section id="industries" class="bg-light-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Industries</h2>
+                <h1 class="section-heading">Industries</h1>
                  <span class="center-line"></span>
                 <h3 class="section-subheading text-muted">Our certified professionals recognize that each industry has its own unique characteristics and culture.
                     We understand these differences and work one-on-one with each client, tailoring our processes and solutions delivery to meet their goals, values and challenges. </h3>
@@ -360,37 +500,6 @@
             </div>
 
         </div>
-
-
-
-
-<!--
-            <div class="col-md-6 col-sm-12 wow fadeInUp" data-wow-offset="30" data-wow-duration="2.5s">
-              <ul class="link-list">
-   
-                <li>
-                    <div class="ind-list"> Biotechnology</div>
-                </li>
-                <li>
-                    <div class="ind-list"> Government</div>
-                </li>
-                <li>
-                    <div class="ind-list"> Health Care</div>
-                </li>
-                <li>
-                    <div class="ind-list"> Telecommunications</div>
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-6 col-sm-12">
-              <img src="img/office.jpg" style="width:100%; border-radius: 5px;"</img>
-            </div>
-        </div>
-         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-            </div>
-        </div> -->
     </div>
 </section>
 
@@ -406,7 +515,7 @@
             <div class="col-md-4">
                 <div class="text-center">
                     <p class="large text-muted">
-                    For inquiries regarding our services please contact us by filling out the form below.
+                    For inquiries regarding our services please contact us by filling out the form to the right.
                     </p>
                     <ul class="social">
                         <li><a href="https://twitter.com/emcera"><span class="fa fa-twitter-square fa-4x"></span></a></li>
