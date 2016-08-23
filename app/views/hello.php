@@ -110,7 +110,7 @@
                                 <a href="https://facebook.com/emcera" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                             </li>
                             <li>
-                                <a href="https://www.linkedin.com/company/emcera-consulting-inc." class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                                <a href="https://www.linkedin.com/company/emcera" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                             </li>
                         </ul>
                     </div>
@@ -140,8 +140,8 @@
                     <h2>OUR MISSION</h2>To advance the practice of profile management consulting in Canada through
                     the delivery of high quality consulting services to enterprises needing strategic advice or IT project
                     services.<br><br><br>
-                    <h2>OUR VALUES</h2>To server our clients with integrity and providing the highest quality professional services 
-                    that address their business issues
+                    <h2>OUR VALUES</h2>To serve our clients with integrity and providing the highest quality professional services 
+                    that address their business issues.
                    <!-- <i class="fa fa-quote-right fa-2x fa-pull-right" ></i> -->
                 </div>
             </div>
@@ -162,7 +162,7 @@
                     <div class="col-sm-6">
                         <h3>Mohamud Ashoor Principle Consultant</h3>
                         <p> Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
-                            efforts in the I.T organizations including health care, technology and financial services.These assignments have addressed such topics such as IT strategy and management,
+                            efforts in the I.T organizations including health care, technology and insurance services.These assignments have addressed topics such as IT strategy and management,
                              IT architecture transformation and application monitoring. He has managed services for Microsfot's cloud productivity and platform solutions including Azure and Office 365.
         
                         </p>
@@ -520,7 +520,7 @@ Our professions have all obtained a Microsoft Certification which validates our 
                     <ul class="social">
                         <li><a href="https://twitter.com/emcera"><span class="fa fa-twitter-square fa-4x"></span></a></li>
                         <li><a href="https://www.facebook.com/emcera"><span class="fa fa-facebook-square fa-4x"></span></a></li>
-                        <li><a href="https://www.linkedin.com/company/emcera-consulting-inc."><span class="fa fa-linkedin-square fa-4x"></span></a></li>
+                        <li><a href="https://www.linkedin.com/company/emcera"><span class="fa fa-linkedin-square fa-4x"></span></a></li>
                     </ul>
                 </div>
                 <!-- <address>
@@ -563,10 +563,11 @@ Our professions have all obtained a Microsoft Certification which validates our 
                         </div>
                     </div>
                     <div class="form-group">
-                        <textarea class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                        <textarea class="form-control" cols="30" rows="6" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
                         <p class="help-block text-danger"></p>
                     </div>
                     <div class="text-right">
+                        <div id="success"></div>
                         <button type="submit" class="btn send-btn">Send Message</button>
                     </div>
                 </form>
