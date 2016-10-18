@@ -30,11 +30,12 @@ header {
 
 .intro-message > img {
     width: 50%;
+
 }
 
 @media (min-width:768px){
     header .intro-text{
-        padding-top:250px;
+        padding-top:200px;
         padding-bottom:200px
     }
 }
@@ -136,9 +137,6 @@ section#about {
     margin: 30px auto;
     border-bottom: 1px solid #25CBF5;
     border-top: 1px solid #25CBF5;
-}
-.quick-desc {
-    margin-top: 50px;
 }
 
 .about-heading h2 {
@@ -628,3 +626,9 @@ section#microsoft .col-sm-3 {
 section#microsoft .col-sm-3:last-of-type {
     margin-right: 10px;
 }
+
+
+#dccn-927fcce35e iframe {
+    width: 100%;
+}
+

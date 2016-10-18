@@ -100,8 +100,10 @@
                     <div class="intro-message">
 <!--                        <h1>emcera</h1>-->
                         <img class="wow fadeInUp" data-wow-duration="2s" src="img/logos/jess1.png">
-                        <h3>Building sustainable information technology infrastructures</h3>
+                        <h3>Providing trusted, specialized IT services to enterprise-scale clients.</h3>
                         <hr class="intro-divider">
+                        <p style="font-size: 21px; margin-bottom:15px;font-family: 'Abel', sans-serif;">EMCERA is a Vancouver-based boutique technology consulting firm providing services to British Columbia’s largest and most complex organizations—in health, telecommunications, and government. 
+Led by senior IT consultant Mohamud Ashoor, EMCERA’s senior technology professionals will integrate with client teams to provide services and advice on technology, integration, risks, timelines, and architecture.</p>
                         <ul class="list-inline intro-social-buttons">
                             <li>
                                 <a href="https://twitter.com/emcera" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
@@ -120,7 +122,17 @@
         </div>
 </header>
 
-<!-- About Section -->
+<!-- About Section --><!-- New Campaign 10/12/2016 -->
+<div id='dccn-927fcce35e' style="width:100%"></div>
+<script type='text/javascript'>
+var ccs_cc_args = ccs_cc_args || [];
+(function () {
+   var o = ccs_cc_args; o.push(['_SKey', '48e9ed0d']); o.push(['_ZoneId', '927fcce35e']); 
+   var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+   sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.cnetcontent.com/jsc/h.js';
+   var n = document.getElementsByTagName('script')[0]; n.parentNode.insertBefore(sc, n);
+})();
+</script>
 
 <section id="about" class="section-padding">
  
@@ -136,41 +148,15 @@
             </div>
             <div class="col-md-9">
                 <div class="about-heading">
-                    <!-- <i class="fa fa-quote-left fa-2x fa-pull-left"></i>-->
-                    <h2>OUR MISSION</h2>To advance the practice of profile management consulting in Canada through
-                    the delivery of high quality consulting services to enterprises needing strategic advice or IT project
-                    services.<br><br><br>
-                    <h2>OUR VALUES</h2>To serve our clients with integrity and providing the highest quality professional services 
-                    that address their business issues.
-                   <!-- <i class="fa fa-quote-right fa-2x fa-pull-right" ></i> -->
+<h2>Mohamud Ashoor, Principal Consultant</h2>
+<div class="quick-desc"><p>
+Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience. As an employee or consultant, he has participated in or led large-scale IT transformation projects in the health care, technology, insurance, and telecommunications sectors.
+Mohamud’s leadership experience includes management of the corporate IT infrastructure for a technology company, which involved mentoring junior employees, designing and managing IT environments for application development and for end users, and establishing and managing environments for hosting clients. 
+</p>
+</div>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="quick-desc">
-                    <div class="first col-sm-6">
-                        <h3>Our Story</h3>
-                        <p>
-                        Emcera is a Vancouver-based technology consulting firm helping companies and organizations with their software and technology changes.
-                        We are a provider in managed services, product integration, consulting and IT staffing solutions to our clients.
-                        We take the time to understand your company's needs and ambitions on achieving business objectives related to technology investments.
-                        Our professionals collaborate on a strategy to deliver full IT service management catering to a variety of industries to plan, implement and 
-                        manage their transitions to new technologies.
-                        </p>
-                    </div>
-                    <div class="col-sm-6">
-                        <h3>Mohamud Ashoor Principle Consultant</h3>
-                        <p> Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
-                            efforts in the I.T organizations including health care, technology and insurance services.These assignments have addressed topics such as IT strategy and management,
-                             IT architecture transformation and application monitoring. He has managed services for Microsfot's cloud productivity and platform solutions including Azure and Office 365.
-        
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
 </section>
 
 <!-- Services Section -->
@@ -196,45 +182,6 @@
         </div>
        <div class="inner">
             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.05s" style="visibility: visible; animation-name: fadeInRight;">
-                    <div class="col-md-4 table-cell text">
-                         <h4 class="role-element leadstyle-text">information Management</h4>
-                    </div>
-                    <div class="col-md-4 table-cell image">
-                         <span class="fa fa-tasks fa-5"></span>
-                    </div>
-                    <div class="col-md-4 table-cell paragraph">
-                        <p class="role-element leadstyle-text">We hold FREE monthly training calls to discuss important&nbsp;topics relating to video marketing and online business strategies.&nbsp;<br><strong>Don't miss out on THIS month's&nbsp;&nbsp;call!</strong></p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.07s" style="visibility: visible; animation-name: fadeInLeft;">
-                    <div class="col-md-4 table-cell text">
-                        <h4 class="role-element leadstyle-text">Directory Development</h4>
-                    </div>
-                    <div class="col-md-4 table-cell image">
-                        <span class="fa fa-folder-open fa-5"></span> 
-                    </div>
-                    <div class="col-md-4 table-cell paragraph">
-                        <p class="role-element leadstyle-text">We take the guesswork out of video marketing and&nbsp;give our members&nbsp;the EXACT word-for-word scripts to&nbsp;use in their businesses &amp; videos&nbsp;each month!</p>
-                    </div>
-                </div>
-            </div>    
-             <div class="row">
-                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.09s" style="visibility: visible; animation-name: fadeInRight;">
-                    <div class="col-md-4 table-cell text">
-                         <h4 class="role-element leadstyle-text">Network Designs</h4>
-                    </div>
-                    <div class="col-md-4 table-cell image">
-                         <span class="fa fa-laptop fa-5"></span>
-                    </div>
-                    <div class="col-md-4 table-cell paragraph">
-                        <p class="role-element leadstyle-text">We hold FREE monthly training calls to discuss important&nbsp;topics relating to video marketing and online business strategies.&nbsp;<br><strong>Don't miss out on THIS month's&nbsp;&nbsp;call!</strong></p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
                 <div class="table col-md-12 role-element leadstyle-container wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.11s" style="visibility: visible; animation-name: fadeInLeft;">
                     <div class="col-md-4 table-cell text">
                         <h4 class="role-element leadstyle-text">Virtualization</h4>
@@ -243,10 +190,49 @@
                         <span class="fa fa-random fa-5"></span> 
                     </div>
                     <div class="col-md-4 table-cell paragraph">
-                        <p class="role-element leadstyle-text">We take the guesswork out of video marketing and&nbsp;give our members&nbsp;the EXACT word-for-word scripts to&nbsp;use in their businesses &amp; videos&nbsp;each month!</p>
+                        <p class="role-element leadstyle-text">We are experts at migrations from physical to virtual server environments. Our experience includes establishing virtual server environments at the corporate level and the enterprise level.</p>
                     </div>
                 </div>
             </div>    
+            <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.07s" style="visibility: visible; animation-name: fadeInLeft;">
+                    <div class="col-md-4 table-cell text">
+                        <h4 class="role-element leadstyle-text">Major Upgrades </h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                        <span class="fa fa-folder-open fa-5"></span> 
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">We have planned and managed a number of corporate upgrades of Microsoft infrastructure, including upgrading Exchange Server, Lync Server, SharePoint Server, Windows Server, and Team Foundation Server.</p>
+                    </div>
+                </div>
+            </div>    
+             <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.09s" style="visibility: visible; animation-name: fadeInRight;">
+                    <div class="col-md-4 table-cell text">
+                         <h4 class="role-element leadstyle-text">Cloud Services</h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                         <span class="fa fa-laptop fa-5"></span>
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">EMCERA is a Microsoft Partner offering full Cloud services—Azure AD, Exchange, Lync, SharePoint, Azure virtual machines, and more. We are experts in migrating customers to Office 365 and Azure AD and in migrations to non-Microsoft cloud platforms such as Amazon Web Services.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="table col-md-12 role-element leadstyle-container wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2.5s" data-wow-delay="0.05s" style="visibility: visible; animation-name: fadeInRight;">
+                    <div class="col-md-4 table-cell text">
+                         <h4 class="role-element leadstyle-text">Active Directory and Exchange Administration</h4>
+                    </div>
+                    <div class="col-md-4 table-cell image">
+                         <span class="fa fa-tasks fa-5"></span>
+                    </div>
+                    <div class="col-md-4 table-cell paragraph">
+                        <p class="role-element leadstyle-text">As a Microsoft Partner, we provide AD and Exchange administration on a corporate and an enterprise level, including administration for organizations with tens of thousands of users</p>
+                    </div>
+                </div>
+            </div>
         </div> 
     </div>
 </section>
