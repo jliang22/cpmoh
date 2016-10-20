@@ -30,12 +30,11 @@ header {
 
 .intro-message > img {
     width: 50%;
-
 }
 
 @media (min-width:768px){
     header .intro-text{
-        padding-top:200px;
+        padding-top:250px;
         padding-bottom:200px
     }
 }
@@ -137,6 +136,9 @@ section#about {
     margin: 30px auto;
     border-bottom: 1px solid #25CBF5;
     border-top: 1px solid #25CBF5;
+}
+.quick-desc {
+    margin-top: 50px;
 }
 
 .about-heading h2 {

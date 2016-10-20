@@ -102,8 +102,6 @@
                         <img class="wow fadeInUp" data-wow-duration="2s" src="img/logos/jess1.png">
                         <h3>Providing trusted, specialized IT services to enterprise-scale clients.</h3>
                         <hr class="intro-divider">
-                        <p style="font-size: 21px; margin-bottom:15px;font-family: 'Abel', sans-serif;">EMCERA is a Vancouver-based boutique technology consulting firm providing services to British Columbia’s largest and most complex organizations—in health, telecommunications, and government. 
-Led by senior IT consultant Mohamud Ashoor, EMCERA’s senior technology professionals will integrate with client teams to provide services and advice on technology, integration, risks, timelines, and architecture.</p>
                         <ul class="list-inline intro-social-buttons">
                             <li>
                                 <a href="https://twitter.com/emcera" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
@@ -122,22 +120,12 @@ Led by senior IT consultant Mohamud Ashoor, EMCERA’s senior technology profess
         </div>
 </header>
 
-<!-- About Section --><!-- New Campaign 10/12/2016 -->
-<div id='dccn-927fcce35e' style="width:100%"></div>
-<script type='text/javascript'>
-var ccs_cc_args = ccs_cc_args || [];
-(function () {
-   var o = ccs_cc_args; o.push(['_SKey', '48e9ed0d']); o.push(['_ZoneId', '927fcce35e']); 
-   var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
-   sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.cnetcontent.com/jsc/h.js';
-   var n = document.getElementsByTagName('script')[0]; n.parentNode.insertBefore(sc, n);
-})();
-</script>
+<!-- About Section -->
 
 <section id="about" class="section-padding">
  
         <div class="center-heading">
-            <h1>Emcera</h1>
+            <h1>Why Emcera?</h1>
             <span class="center-line"></span>
         </div>
         <div class="row">
@@ -148,18 +136,40 @@ var ccs_cc_args = ccs_cc_args || [];
             </div>
             <div class="col-md-9">
                 <div class="about-heading">
-<h2>Mohamud Ashoor, Principal Consultant</h2>
-<div class="quick-desc"><p>
-Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience. As an employee or consultant, he has participated in or led large-scale IT transformation projects in the health care, technology, insurance, and telecommunications sectors.
-Mohamud’s leadership experience includes management of the corporate IT infrastructure for a technology company, which involved mentoring junior employees, designing and managing IT environments for application development and for end users, and establishing and managing environments for hosting clients. 
-</p>
-</div>
+                    <!-- <i class="fa fa-quote-left fa-2x fa-pull-left"></i>-->
+                    <h2>We are Collaborative</h2>We engage in a true collaboration with your employees and consultants to create a technically optimal solution that respects your processes, culture, and requirements. <br><br>
+                    <h2>We Bring Expertise, Across Technologies</h2>We are continually learning and improving our skills and are platform agnostic. We will advise you on the suitability, risks, and advantages of each technology option.<br><br>  
+                    <h2>We are Proven and Trusted</h2>We are proud to have contributed to some of BC’s largest and most recent technology projects. Our skills are proven in organizations with stringent requirements surrounding security, privacy, and network availability. 
+                   <!-- <i class="fa fa-quote-right fa-2x fa-pull-right" ></i> -->
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="quick-desc">
+                    <div class="first col-sm-6">
+                        <h3>Our Story</h3>
+                        <p>
+                        EMCERA is a Vancouver-based boutique technology consulting firm providing services to British Columbia’s largest and most complex organizations—in health, telecommunications, and government. 
+                        Led by senior IT consultant Mohamud Ashoor, EMCERA’s senior technology professionals will integrate with client teams to provide services and advice on technology, integration, risks, timelines, and architecture.
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>Mohamud Ashoor Principle Consultant</h3>
+                        <p> Mohamud Ashoor is a Senior Infrastructure Specialist with more than 10 years of consulting experience in the Information Technology industry. Mohamud has led large-scale transformation
+                            efforts in the I.T organizations including health care, technology and insurance services.These assignments have addressed topics such as IT strategy and management,
+                             IT architecture transformation and application monitoring. He has managed services for Microsfot's cloud productivity and platform solutions including Azure and Office 365.
+        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 </section>
 
 <!-- Services Section -->
+
 
 <section id="services" class="module module-gray">
     <div class="container">
@@ -309,7 +319,7 @@ Mohamud’s leadership experience includes management of the corporate IT infras
         </div>
         <div class="col-sm-5">
             <div class="center-heading">
-                <h1>Microsoft Partner</h1>
+                <h1>Microsoft Partnership</h1>
                 <span class="center-line"></span>
             </div>
             <div class="microtext wow pulse"   data-wow-offset="20" data-wow-duration="2s" data-wow-delay=".25s">
