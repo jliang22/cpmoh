@@ -242,7 +242,7 @@ section h3.section-subheading {
     margin-bottom: 40px;
     color: rgba(43, 41, 77, 0.92);
     margin-top: 0px;
-    font-style: italic;
+    font-style: normal;
     line-height: 1.5;
 }
 
@@ -581,7 +581,7 @@ footer {
     padding-top: 5px;
 }
 
-section#microsoft {
+section#microsoft, section#testimonials {
         border-top: solid 1px #bfbfbf;
         padding: 120px 100px;
 }
@@ -633,4 +633,44 @@ section#microsoft .col-sm-3:last-of-type {
 #dccn-927fcce35e iframe {
     width: 100%;
 }
+
+
+/* Testimonials*/
+.quoteBox {
+    font-size: 20px;
+    line-height: 36px;
+    padding: 7px 0;
+    position: relative;
+    margin-bottom: 15px;
+    font-family: Georgia, serif;
+}
+
+.quoteBox .name {
+    margin-top: 10px;
+    font-size: 18px;
+    color :#333;
+     text-transform: uppercase;
+
+    font-family: 'nexa_boldregular';
+}
+
+.quoteBox .fa {
+    color: rgba(43, 41, 77, 0.99);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

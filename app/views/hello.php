@@ -78,6 +78,9 @@
                     <a class="page-scroll" href="#microsoft">Microsoft Partner</a>
                 </li>
                 <li>
+                    <a class="page-scroll" href="#testimonials">Testimonials</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#industries">Industries</a>
                 </li>
                 <li>
@@ -331,58 +334,30 @@ Our professions have all obtained a Microsoft Certification which validates our 
     </div>
 </section>
 
-<!-- <section id="microsoft" class="bg-light-gray">
+<section id="testimonials" class="bg-light-gray">
     <div class="container">
         <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h1 class="section-heading">Microsoft Partner</h1>
-                    <span class="center-line"></span>
-                </div>
+                <h1 class="section-heading">Testimonials</h1>
+                 <span class="center-line"></span>
+                <h3 class="section-subheading text-muted">Client's contentment is a paramount importance to us. Take a look at what
+                our clients have to say about us.</h3>
+            </div>
         </div>
-        <div class="row">
-                <div class="col-md-3 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
-                    </a>
-                </div>
+        <div class="quoteBox">
+          <div><i><i class="fa fa-quote-left" aria-hidden="true"></i>   
+ I had the pleasure of working with Mohamud on a number of projects.   Always a great team member who is a self-starter, pro-active, knowledgeable and focused on delivery.  He has a great work ethic and is a great additional to any technical team. <i class="fa fa-quote-right" aria-hidden="true"></i></i>
+            <p class="name">Health Shared Services BC @ Interim Provincial Director, Teresa Marshall</p>            
+          </div>
+        </div>
+        <div class="quoteBox">
+        <div><i><i class="fa fa-quote-left" aria-hidden="true"></i>
+ Mo worked on our team as a Virtual Server Analyst and Technical Analyst and was a pleasure to work with. He has an exceptional work ethic where no job is too big or too small. He was a great resource to have for all technical queries, was always very knowledgeable, very approachable and a great team player. His project deadlines were always met without exception and he was willing to work late hours to meet them.
+I would highly recommend Mo to any company that wants a quality job done quickly and efficiently. <i class="fa fa-quote-right" aria-hidden="true"></i></i></div>
+        <p class="name">Technical Lead @ Health Shared Services BC, Ray Lynch</p>
         </div>
     </div>
-</section> -->
+</section> 
 
 <!-- Team Section -->
 <section id="industries" class="bg-light-gray">
