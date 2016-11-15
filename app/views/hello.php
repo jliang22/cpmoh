@@ -270,23 +270,18 @@
                 <div class="iconbox-icon">
                     <img src="img/mcip.png" class="micropic img-responsive">
                 </div>
-                <div class="iconbox-text">
+                <!--<div class="iconbox-text">
                     <div class="iconbox-desc">
                         <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Virtualization Administrator</div>
                         <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>SharePoint Administrator</div>
                         <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Enterprise Administrator</div>
                         <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Server Administrator</div>
                     </div> 
-                </div>
+                </div>-->
             </div>
             <div class="iconbox">
                 <div class="iconbox-icon">
                     <img src="img/mcts2.png" class="micropic img-responsive">
-                </div>
-                <div class="iconbox-text">
-                    <div class="iconbox-desc">
-                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Microsoft Exchange Server</div>
-                    </div> 
                 </div>
             </div>
         </div>
@@ -295,28 +290,15 @@
                 <div class="iconbox-icon">
                     <img src="img/mcsa.png" class="micropic img-responsive">
                 </div>
-                <div class="iconbox-text">
-                    <div class="iconbox-desc">
-                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Messaging on Windows</div>
-                    </div> 
-                </div>
             </div>
             <div class="iconbox">
                 <div class="iconbox-icon">
                     <img src="img/mcse1.png" class="micropic img-responsive">
-                    <div class="iconbox-desc">
-                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Windows Server</div>
-                    </div> 
                 </div>
             </div>
             <div class="iconbox">
                 <div class="iconbox-icon">
                     <img src="img/cisco.png" class="micropic img-responsive">
-                </div>
-                <div class="iconbox-text">
-                    <div class="iconbox-desc">
-                        <div class="custom-list-item"><i class="fa fa-angle-right" style="color:#8fc941;width: 20px;"></i>Cisco Certified Network Associate</div>
-                    </div> 
                 </div>
             </div>
         </div>
@@ -325,11 +307,12 @@
                 <h1>Microsoft Partnership</h1>
                 <span class="center-line"></span>
             </div>
-            <div class="microtext wow pulse"   data-wow-offset="20" data-wow-duration="2s" data-wow-delay=".25s">
+            <div id='dccn-927fcce35e'></div>
+   <!--         <div class="microtext wow pulse"   data-wow-offset="20" data-wow-duration="2s" data-wow-delay=".25s">
                 <p>
 Our professions have all obtained a Microsoft Certification which validates our expertise in a Microsoft technology. Our skilled developers  have experience with integration between a variety of technologies including Microsoft Office products, Microsoft .NET desktop/web applications, Microsoft Exchange, Java and SharePoint solutions. Our team of developers will integrate new technologies into your system so that it performs at an optimal and stable level. Their extensive experience will ensure that  recommendations to enhance or upgrade your application are achieved in the most cost-effective and user intuitive manner.
                 </p>    
-            </div>    
+            </div>   --> 
         </div>
     </div>
 </section>
@@ -593,6 +576,15 @@ I would highly recommend Mo to any company that wants a quality job done quickly
 <!-- Custom Theme JavaScript -->
 <script src="js/agency.js"></script>
 
+<script type='text/javascript'>
+var ccs_cc_args = ccs_cc_args || [];
+(function () {
+   var o = ccs_cc_args; o.push(['_SKey', '48e9ed0d']); o.push(['_ZoneId', '927fcce35e']); 
+   var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+   sc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.cnetcontent.com/jsc/h.js';
+   var n = document.getElementsByTagName('script')[0]; n.parentNode.insertBefore(sc, n);
+})();
+</script>
 </body>
 
 </html>
