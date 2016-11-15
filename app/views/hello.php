@@ -330,14 +330,14 @@ Our professions have all obtained a Microsoft Certification which validates our 
         <div class="quoteBox">
           <div><i><i class="fa fa-quote-left" aria-hidden="true"></i>   
  I had the pleasure of working with Mohamud on a number of projects.   Always a great team member who is a self-starter, pro-active, knowledgeable and focused on delivery.  He has a great work ethic and is a great additional to any technical team. <i class="fa fa-quote-right" aria-hidden="true"></i></i>
-            <p class="name">Health Shared Services BC @ Interim Provincial Director, Teresa Marshall</p>            
+            <p class="name" style="color:#2e99a9">Health Shared Services BC @ Interim Provincial Director, Teresa Marshall</p>            
           </div>
         </div>
         <div class="quoteBox">
         <div><i><i class="fa fa-quote-left" aria-hidden="true"></i>
  Mo worked on our team as a Virtual Server Analyst and Technical Analyst and was a pleasure to work with. He has an exceptional work ethic where no job is too big or too small. He was a great resource to have for all technical queries, was always very knowledgeable, very approachable and a great team player. His project deadlines were always met without exception and he was willing to work late hours to meet them.
 I would highly recommend Mo to any company that wants a quality job done quickly and efficiently. <i class="fa fa-quote-right" aria-hidden="true"></i></i></div>
-        <p class="name">Technical Lead @ Health Shared Services BC, Ray Lynch</p>
+        <p class="name" style="color:#2e99a9">Technical Lead @ Health Shared Services BC, Ray Lynch</p>
         </div>
     </div>
 </section> 
